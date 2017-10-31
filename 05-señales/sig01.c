@@ -9,11 +9,10 @@
 #include <sys/wait.h>
 #include <signal.h>
 
-
-int main ()
+int main()
 {
 
-   sleep(5);
-   
-   exit(5);
+    sleep(5);
+
+    exit(5);
 }
