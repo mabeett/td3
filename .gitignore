@@ -1,2 +1,6 @@
 # backup de indent
 *.c~
+
+# Clase 03-linux
+03-linux/hola
+03-linux/adios
